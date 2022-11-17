@@ -18,9 +18,9 @@ Neste repositório, além de conter **as 10 questões que recebi como Desafio In
 <li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ3">Atividade 3</a></li>
 <li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ4">Atividade 4</a></li>
 <li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ5">Atividade 5</a></li>
-<li><a href="#">Atividade 6 (a ser adicionada)</a></li>
-<li><a href="#">Atividade 7 (a ser adicionada)</a></li>
-<li><a href="#">Atividade 8 (a ser adicionada)</a></li>
-<li><a href="#">Atividade 9 (a ser adicionada)</a></li>
-<li><a href="#">Atividade 10 (a ser adicionada)</a></li>
+<li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ6">Atividade 6 (a ser adicionada)</a></li>
+<li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ7">Atividade 7 (a ser adicionada)</a></li>
+<li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ8">Atividade 8 (a ser adicionada)</a></li>
+<li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ9">Atividade 9 (a ser adicionada)</a></li>
+<li><a href="https://github.com/G14nLuca/CiandT-nextGenChallenge/tree/master/ativ10">Atividade 10 (a ser adicionada)</a></li>
 </ul>
